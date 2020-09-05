@@ -1,0 +1,19 @@
+{
+  "name": "javascript-music-player",
+  "version": "1.0.0",
+  "description": "Simple yet beautiful JavaScript based music player 🎶🎵🎵",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisharx/javascript-music-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaisharx/javascript-music-player/issues"
+  },
+  "homepage": "https://github.com/jaisharx/javascript-music-player#readme"
+}
